@@ -1,8 +1,6 @@
 <h1>Hi, I'm Kinoti! <br/><a href="https://github.com/Kinotialf">Ethical Hacker</a>, <a href="https://www.linkedin.com/in/alfredkinoti/">Security Lead</a>,
 
 <h2>👨‍💻 Digital Forensics Projects:</h2>
-
-- [Active Directory Bulk User Creation](https://github.com/Kinotalf/AD_PS)
   
 
 <h2>Popular Linkeldn Posts</h2>
